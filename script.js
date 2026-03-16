@@ -23,8 +23,8 @@ const noMessages = [
 
 const yesTeasePokes = [
     "Coba Klik No Dulu yaa.. 😏",
-    "Coba sekali lagi.. 👀",
-    "Apakah Anda Tidak Penasaran Apa yang Terjadi jika Anda Klik No 😈",
+    "Coba Klik No sekali lagi.. 👀",
+    "Apakah Anda Tidak Penasaran Apa yang Terjadi jika Anda Klik No 👀",
     "Coba Klik No Dulu yaa 😏"
 ]
 
