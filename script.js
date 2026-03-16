@@ -10,15 +10,15 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No",
-    "Are you positive? 🤔",
+    "Tidak",
+    "Apakah Anda Yakin? 🤔",
     "Pleasee... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "Jika Anda Bilang Tidak, Kami Akan Sangat Sedih...",
+    "Kami Akan Sedih... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Tolong Jangan Bilang Tidak...",
+    "Kesempatan Terakhir! 😭",
+    "Coba Klik TidaK Kalau Bisa 😜"
 ]
 
 const yesTeasePokes = [
